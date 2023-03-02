@@ -1,4 +1,4 @@
-# 😎Hello. Soy Edwin Leandro Castillo Quiroga😎
+# 😎Hello. Soy Edwin Castillo Quiroga😎
 
 Soy ***tecnologo*** en mecatronica, apasionado a la programacion, robotica y la automatización.
 
